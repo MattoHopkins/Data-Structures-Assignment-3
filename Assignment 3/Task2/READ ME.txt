@@ -1,0 +1,2 @@
+Using the input.txt file found in the same folder, you are able to add any list of words and the program will count keep track of which line they are used on.
+

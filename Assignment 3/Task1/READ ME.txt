@@ -1,0 +1,11 @@
+On start up you are required to put in a parent node. Inputs then
+range from the numbers 0-9. Selecting 1-6 will give you a result and 0, 7-9 will result in the end of the program.
+Any other key input will be recognized as a "invalid key" and you will be reprompted to enter a selection.
+
+Pressing 1 will allow you to add additional nodes to the binary tree. This is done by entering a key (string) and a value (string).
+Keys can be repeated and the data will be stored in addition to the previous data on they key.
+
+Keys 2-5 give you info on the current binary tree. 2 gives you the Entry Set (Key and value pairs). 3 will give you just the key set.
+4 will give you the list of values. 5 will give you the height of the tree.
+
+6 will search for a key and return the value of selected key. 6 returns "Key not found" if no key is found.
